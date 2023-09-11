@@ -20,6 +20,12 @@ import notion from './notion.png'
 import xd from './xd.png'
 import diamon from './deamon.png'
 import timeImage from './imageTime.png'
+import profil1 from './profil1.png'
+import profil2 from './profil2.png'
+import profil3 from './profil3.png'
+import docu from './Docu.png'
+import frog from './frog.png'
+import vm from './vm.png'
 
 export {
     logo,
@@ -43,5 +49,11 @@ export {
     notion,
     xd,
     diamon,
-    timeImage
+    timeImage,
+    profil1,
+    profil2,
+    profil3,
+    docu,
+    frog,
+    vm
 }
