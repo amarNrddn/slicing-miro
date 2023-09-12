@@ -9,6 +9,8 @@ import TabSection from '../components/TabSection.jsx/TabSection'
 import TabTimes from '../components/TabTimes/TabTimes'
 import BenerCompenies from '../components/BenerCompenies/BenerCompenies'
 import Testimonial from '../components/Testimonial/Testimonial'
+import BenerJoin from '../components/BenerJoin/BenerJoin'
+import Footer from '../components/Footer/Footer'
 
 const AppPage = () => {
     return (
@@ -23,6 +25,8 @@ const AppPage = () => {
             <TabTimes />
             <BenerCompenies />
             <Testimonial />
+            <BenerJoin />
+            <Footer />
         </div>
     )
 }

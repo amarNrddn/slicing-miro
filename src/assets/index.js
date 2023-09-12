@@ -26,6 +26,9 @@ import profil3 from './profil3.png'
 import docu from './Docu.png'
 import frog from './frog.png'
 import vm from './vm.png'
+import appStore from './appStore.png'
+import playStore from './playstore.png'
+import yelowApp from './appStore.png'
 
 export {
     logo,
@@ -55,5 +58,8 @@ export {
     profil3,
     docu,
     frog,
-    vm
+    vm, 
+    appStore,
+    playStore,
+    yelowApp
 }

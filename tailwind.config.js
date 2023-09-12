@@ -10,7 +10,8 @@ module.exports = {
         whiteDark: '#F5F5F5',
         textCol : '#5F5C80',
         yelow : '#FFD02F',
-        blue : '#4262FF'
+        blue : '#4262FF',
+        darkBlue : '#050038'
       }
     },
   },
